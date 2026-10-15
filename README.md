@@ -4,7 +4,7 @@
 
 本仓库是 [syt2/zotero-addons-scraper](https://github.com/syt2/zotero-addons-scraper) 的派生副本，用于学习与探索 Zotero 插件生态。原始项目、上游发布入口与来源说明保留在下方。
 
-[上游项目](https://github.com/syt2/zotero-addons-scraper) &nbsp; / &nbsp; [插件条目](addons) &nbsp; / &nbsp; [工作流](../../actions) &nbsp; / &nbsp; [谢子诺的个人主页](https://noahxie83.github.io/Noahxie83/)
+[上游项目](https://github.com/syt2/zotero-addons-scraper) &nbsp; / &nbsp; [插件条目](addons) &nbsp; / &nbsp; [工作流](../../actions) &nbsp; / &nbsp; 
 
 ## 工作流概览
 
